@@ -32,7 +32,7 @@ I'm all about that async life on Slack. It lets us both work at our own pace. Bu
 
 ### Feedback: The Good, The Bad, and The Brutally Honest
 
-Here's where my German side really shows - I'm pretty direct. If I'm not feeling something, I'll tell you straight up. No sugarcoating here. Just remember, it's about the work, not you as a person. I try to keep it as nice as possible, but it'll probably still come across as very direct.
+Here's where my German side really shows - I try to keep the way I give feedback as nice as possible, but it’ll probably still come across as very direct. If I’m not feeling something, I’ll tell you straight up and without sugarcoating. Just remember, it’s about the work, not you as a person.
 
 The flip side? I want the same from you. If you think my work is subpar, go ahead and tell me it's crap. I won't get mad. But be ready for me to ask a ton of questions about why you think it's crap. I'm always looking to improve and do better work.
 
