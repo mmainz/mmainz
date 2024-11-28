@@ -4,21 +4,35 @@ Think of it as your handy manual for getting to know me better, figuring out wha
 
 ## My Personality
 
-I'm an easy-going developer who combines technical expertise with a light-hearted approach. I like making jokes and take things lightly by default. Some might even describe me as silly. Don't worry about offending me; my skin's pretty thick. So it's fine to make some jokes at my expense as well if you feel like it.
+### Light-Hearted Approach
 
-Aside from that, I would say that I'm a little of an idealist. I've got some strong principles and beliefs that guide pretty much everything I do. And I like doing things "the right way", meaning the way in line with my principles. That doesn't mean I can't be flexible and pragmatic, though.
+I like making jokes and take things lightly by default. Some might even describe me as silly. Don't worry about offending me; my skin's pretty thick. So it's fine to make some jokes at my expense as well if you feel like it.
 
-And finally, I'm also German. And one thing where I really match the stereotypes is my communication style. I don't beat around the bush or fluff things up when communicating. I say what I mean and mean what I say. Depending on what culture you're from, this might seem offensive to you. And I do try to adapt to other cultures. But this aspect will still slip through from time to time. So please don't take it personally when I give you some very direct feedback or responses.
+### Principled Idealist
 
-And on the flip-side, you can give me very direct feedback as well without any danger of me being mad at you. This is what I'm used to. But it also means that if you're trying to tell me something via subtext, there's a good chance I will just not get it. If in doubt, you should feel free to bash me on the head with whatever you're trying to tell me.
+I would say that I'm a little of an idealist. I've got some strong principles and beliefs that guide pretty much everything I do. And I like doing things "the right way", meaning the way in line with my principles. That doesn't mean I can't be flexible and pragmatic, though.
+
+### Direct Communication Style
+
+Being German, one thing where I really match the stereotypes is my communication style. I don't beat around the bush or fluff things up when communicating. I say what I mean and mean what I say. Depending on what culture you're from, this might seem offensive to you. And I do try to adapt to other cultures. But this aspect will still slip through from time to time. So please don't take it personally when I give you some very direct feedback or responses.
+
+### Feedback Reception
+
+You can give me very direct feedback as well without any danger of me being mad at you. This is what I'm used to. But it also means that if you're trying to tell me something via subtext, there's a good chance I will just not get it. If in doubt, you should feel free to bash me on the head with whatever you're trying to tell me.
 
 ## My Principles
 
 I said earlier that I have some principles that guide most of my work. I want to talk about those here so you know how I think about making decisions.
 
-First of all, I firmly believe that doing things right from the get-go is the key to moving fast in the long run. Sure, cutting corners might give you a quick win, but in my experience, it'll come back to bite you tenfold later on. That said, I don't think that runs contrary to being pragmatic. I try to pick my battles and figure out when it's worth investing in the "proper" solution and when we can get away with something quicker.
+### Quality First
+
+I firmly believe that doing things right from the get-go is the key to moving fast in the long run. Sure, cutting corners might give you a quick win, but in my experience, it'll come back to bite you tenfold later on. That said, I don't think that runs contrary to being pragmatic. I try to pick my battles and figure out when it's worth investing in the "proper" solution and when we can get away with something quicker.
+
+### Keep It Lean
 
 Something else you'll notice about me: I'm pretty keen on eliminating waste and keeping things lean. Whether it's our software or our processes, I'm always on the lookout for ways to streamline and simplify. If I spot something that seems unnecessary or overly complex, I'll probably bring it up and try to eliminate it. I believe that leaner systems and processes make our lives easier and our work more efficient in the long run.
+
+### Sustainable Pace
 
 I'm also a big believer in sustainable work practices. In my book, steady, consistent work beats crazy overtime and burnout any day of the week. Therefore, I might encourage you to take time off when I feel you need it, or to clock out at a reasonable hour, and actually rest when you're sick instead of trying to power through.
 
