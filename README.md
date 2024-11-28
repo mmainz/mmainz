@@ -1,55 +1,54 @@
 # Hey there! Welcome to my Personal README
 
-I'm glad you stumbled upon this little guide to all things me. Think of it as your handy manual for getting to know me better, figuring out what makes me tick, and learning how we can work together like a well-oiled machine.
+Think of it as your handy manual for getting to know me better, figuring out what makes me tick, and learning how we can work together.
 
-## The Lowdown on My Personality
+## My Personality
 
-First things first - I'm a pretty chill person. I love cracking jokes, especially the silly kind that might make you groan. Don't worry about offending me; my skin's pretty thick. Feel free to throw some jokes my way or even poke fun at me. Just give me a heads up if my humor's getting old. I can take a hint!
+I'm an easy-going developer who combines technical expertise with a light-hearted approach. I like making jokes and take things lightly by default. Some might even describe me as silly. Don't worry about offending me; my skin's pretty thick. So it's fine to make some jokes at my expense as well if you feel like it.
 
-Now, here's the thing: I've got some strong principles and beliefs that guide pretty much everything I do. You'll notice I'm always pushing to do things the "right" way, even if it takes a bit longer. I'm not totally inflexible, but I like to at least give the ideal approach a shot before compromising.
+Aside from that, I would say that I'm a little of an idealist. I've got some strong principles and beliefs that guide pretty much everything I do. And I like doing things "the right way", meaning the way in line with my principles. That doesn't mean I can't be flexible and pragmatic, though.
 
-## What I'm All About
+And finally, I'm also German. And one thing where I really match the stereotypes is my communication style. I don't beat around the bush or fluff things up when communicating. I say what I mean and mean what I say. Depending on what culture you're from, this might seem offensive to you. And I do try to adapt to other cultures. But this aspect will still slip through from time to time. So please don't take it personally when I give you some very direct feedback or responses.
 
-When it comes to work, I'm all about high-quality engineering. I firmly believe that doing things right from the get-go is the key to moving fast in the long run. Sure, cutting corners might give you a quick win, but trust me, it'll come back to bite you tenfold later on.
+And on the flip-side, you can give me very direct feedback as well without any danger of me being mad at you. This is what I'm used to. But it also means that if you're trying to tell me something via subtext, there's a good chance I will just not get it. If in doubt, you should feel free to bash me on the head with whatever you're trying to tell me.
 
-That said, I don't think that runs contrary to being pragmatic. I try to pick my battles and figure out when it's worth investing in the "proper" solution and when we can get away with something quicker.
+## My Principles
 
-Something else you'll notice about me: I'm pretty intense when it comes to eliminating waste and keeping things lean. Whether it's our software or our processes, I'm always on the lookout for ways to streamline and simplify. If I spot something that seems unnecessary or overly complex, I'll probably bring it up and try to eliminate it. Don't take it personally - I just believe that leaner systems and processes make our lives easier and our work more efficient in the long run.
+I said earlier that I have some principles that guide most of my work. I want to talk about those here so you know how I think about making decisions.
 
-One of my missions is to help the non-tech folks understand why we care so much about engineering quality and tackling technical debt. So don't be surprised if you see me pushing back on unrealistic deadlines. I expect all engineers to do the same - we've got to stand our ground sometimes!
+First of all, I firmly believe that doing things right from the get-go is the key to moving fast in the long run. Sure, cutting corners might give you a quick win, but in my experience, it'll come back to bite you tenfold later on. That said, I don't think that runs contrary to being pragmatic. I try to pick my battles and figure out when it's worth investing in the "proper" solution and when we can get away with something quicker.
 
-Oh, and I'm a big believer in sustainable work practices. In my book, steady, consistent work beats crazy overtime and burnout any day of the week. I'll be the one encouraging you to take time off when you need it, clock out at a reasonable hour, and actually rest when you're sick instead of trying to power through.
+Something else you'll notice about me: I'm pretty keen on eliminating waste and keeping things lean. Whether it's our software or our processes, I'm always on the lookout for ways to streamline and simplify. If I spot something that seems unnecessary or overly complex, I'll probably bring it up and try to eliminate it. I believe that leaner systems and processes make our lives easier and our work more efficient in the long run.
 
-## How I Roll at Work
+I'm also a big believer in sustainable work practices. In my book, steady, consistent work beats crazy overtime and burnout any day of the week. Therefore, I might encourage you to take time off when I feel you need it, or to clock out at a reasonable hour, and actually rest when you're sick instead of trying to power through.
 
-### My Hours
+## How to Best Communicate with Me
 
-I usually kick off my day somewhere between 8:30 and 9:00, wrapping up around 18:00. Don't get me wrong, I love what I do and I'm pretty passionate about it. But as I said, I also value my free time and try to keep a healthy work-life balance. When it's time to clock out, I clock out. Unless the production system is on fire, then it's indeed time for overtime.
+Now that you know a little more about how I tick, here's how to best communicate with me.
 
-### Let's Talk
+- Direct communication works best - I appreciate straightforward messages and explicit requests
+- Feel free to challenge my ideas - I enjoy constructive debates and feedback
+- If you need something urgent, just say so - I respect clear priorities
+- For complex discussions, I'm always open to jumping on a quick call
 
-I'm all about that async life on Slack. It lets us both work at our own pace. But hey, if things start getting complicated, I'm always down to hop on a call and hash it out.
+## How I Work
 
-### Feedback: The Good, The Bad, and The Brutally Honest
+Some things about how I work that might catch you off guard or are otherwise noteworthy.
 
-Here's where my German side really shows - I try to keep the way I give feedback as nice as possible, but it’ll probably still come across as very direct. If I’m not feeling something, I’ll tell you straight up and without sugarcoating. Just remember, it’s about the work, not you as a person.
+### Feedback
 
-The flip side? I want the same from you. If you think my work is subpar, go ahead and tell me it's crap. I won't get mad. But be ready for me to ask a ton of questions about why you think it's crap. I'm always looking to improve and do better work.
+I already talked about my German way of communicating. This is also reflected in the feedback I give. I'll try to phrase feedback as nicely as possible, but I'll never water it down so much that the message gets lost. I would personally much rather have my feelings hurt than not be told about something I did or how someone feels about me. So I'll try to treat you the same. I see criticism as a positive thing - it's a chance to level up. And another German stereotype fits me very well: I tend to spot the negatives first. I don't really know why, either. I actively try to also see the positive sides of things to not become someone that only ever complains. But if you hear more negative than positive things from me, don't worry. This is one of my biases, it probably has nothing to do with you.
 
-I see criticism as a positive thing - it's a chance to level up. And yeah, another German stereotype that fits me: I tend to spot the negatives first. So if I come across as a bit of a downer sometimes, that's why. I promise I'll get to the good stuff eventually!
+### Pair Programming
 
-### Pair Programming and PR Reviews
+I think I'm a pretty good pair programmer. I used to work at a company where pair programming was the default mode of working, so I got tons of practice on it there. So if you ever want to do some pairing or want to learn about the practice, feel free to hit me up.
 
-I'm a big fan of pair programming. It keeps me focused and I think it leads to better results. I can do it all day, but I know not everyone's the same. If you're new to it and want to give it a shot, just let me know.
+### PR Reviews
 
-When it comes to PR reviews, brace yourself for lots of comments. Don't stress though - I see it as a learning opportunity for both of us. I'm just putting all my thoughts out there to kick off a good discussion. If there's something that absolutely has to change, I'll make that crystal clear. Otherwise, we can always tweak things post-merge.
-
-### Geeking Out Over Software Architecture
-
-One of my favorite parts of the job is diving into software architecture and design. I can chat about this stuff for hours. So if you ever want feedback on some code or an architecture diagram, hit me up. I love the discussions that come out of these chats.
+I'm constantly trying to refine my PR review style. One consistent aspect is that I tend to leave more comments than the average reviewer. This is because I believe every comment creates a learning opportunity for everyone involved. Don't be concerned though - while I provide extensive feedback, I rarely leave comments that I consider blocking. Often, the discussion arising from the comment is where the true value lies, rather than addressing the specific comment itself. When something is critical to address, I will make that explicitly clear.
 
 ## Life Beyond the Keyboard
 
-When I'm not working, you can probably find me playing video games, binging anime, lifting weights, or rolling dice in a Dungeons & Dragons campaign. Fair warning: if you bring up any of these topics, be prepared for me to go off on a tangent. When I'm passionate about something, I tend to talk... a lot.
+When I'm not working, you can probably find me playing video games, binging anime, lifting weights, or rolling dice in a D&D campaign. Fair warning: if you bring up any of these topics, be prepared for me to go off on a tangent. When I'm passionate about something, I tend to talk... a lot.
 
-So there you have it - that's me in a nutshell. Hope this helps you get a sense of who I am and how we can work together. Looking forward to collaborating with you!
+So there you have it - that's me in a nutshell. Hope this helps you get a sense of who I am and how we can work together. Looking forward to working with you!
